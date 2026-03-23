@@ -44,6 +44,7 @@ The dataset used is the Medical Insurance Dataset from Kaggle.
 
 ## Project Structure
 Medical_Insurance_Linear_Regression/
+
 │── insurance.csv  
 │── linear_regression.ipynb  
 │── README.md  
